@@ -1,0 +1,36 @@
+.hidden {
+    display: none;
+}
+
+.tabs {
+    margin-top:50px;
+    
+}
+
+.pane:first-of-type {
+    margin-right: 100px;
+}
+
+.pane {
+    text-align: center;
+    height: auto;
+    width: 350px;
+    background-color: #77A1A6;
+    border: 3px dashed #013440;
+    color: #011826;
+    padding: 20px;
+}
+
+
+img {
+    margin: auto;
+    padding-bottom:20px ;
+}
+
+button {
+    background-color: #013440;
+    color: #77A1A6;
+    border: none;
+    border-radius: 5px;
+    padding: 6px;
+}
