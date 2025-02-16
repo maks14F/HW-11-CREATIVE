@@ -25,6 +25,7 @@
 img {
     margin: auto;
     padding-bottom:20px ;
+    display:block;
 }
 
 button {
